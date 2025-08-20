@@ -11,7 +11,11 @@ It enhances the shopping experience with natural language conversations, guiding
 
 Tech stack : Groq, Grafana, Prometheus, flask, kubernetes, Google Cloud, AstraDB, Docker
 
-Pull image from dockerhub
+Pull image from dockerhub:
+
+
+
+
 docker pull damton/flipkart-recommender
 
 2.Run the container locally
