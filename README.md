@@ -9,7 +9,7 @@ It enhances the shopping experience with natural language conversations, guiding
 
 🧾 Requirements Docker installed on your machine
 
-Tech stack : Groq, Grafana, Prometheus, flask, kubernetes circleCI, Google Cloud, AstraDB, Docker
+Tech stack : Groq, Grafana, Prometheus, flask, kubernetes, Google Cloud, AstraDB, Docker
 
 Pull image from dockerhub
 docker pull damton/flipkart-recommender
